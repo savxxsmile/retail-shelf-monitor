@@ -5,10 +5,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> B.Tech Final Year Project | Sadhvi Singh | Roll No: 26163  
-> Department of Computer Science and Engineering  
-> Dronacharya College of Engineering, Gurugram University
-
 ---
 
 ## 📌 Project Overview
